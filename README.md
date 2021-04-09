@@ -1,6 +1,6 @@
-# MATPLOTLIB: Visualicación de Datos en Python
+# MATPLOTLIB: Visualización de Datos en Python
 
-_Presentamos un Jupyter NoteBook con la información esencial sobre visualicación de datos para n00bs_
+_Presentamos un Jupyter NoteBook con la información esencial sobre visualización de datos en Python para n00bs_
 
 ![Seno(x)](funcion_seno.png)
 
